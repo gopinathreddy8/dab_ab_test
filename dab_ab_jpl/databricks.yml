@@ -43,3 +43,5 @@ targets:
     permissions:
       - user_name: gopinathreddy008.d@gmail.com
         level: CAN_MANAGE
+      - service_principal_name: sp_exec_ab
+        level: CAN_MANAGE
